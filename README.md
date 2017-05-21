@@ -1,4 +1,4 @@
-# R shiny 대시보드로 살펴보는 한국 영화 DB
+# R shiny 대시보드로 살펴보는 한국 영화 데이터
 
 ## 데이터
 - [영화진흥위원회](http://www.kobis.or.kr/kobis/business/main/main.do)

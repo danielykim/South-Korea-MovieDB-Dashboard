@@ -1,1 +1,1 @@
-# South Korea MovieDB R shiny dashboard
+# South Korea MovieDB: R shiny dashboard

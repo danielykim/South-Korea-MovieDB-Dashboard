@@ -20,3 +20,7 @@
 
 ## Dashboard URL
 - http://stat.kaist.ac.kr:2017/South-Korea-MovieDB-Dashboard/
+
+
+
+![](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)

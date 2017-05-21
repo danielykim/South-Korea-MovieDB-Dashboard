@@ -1,4 +1,4 @@
-# 한국 영화 데이터 R shiny 대시보드
+# R shiny 대시보드로 살펴보는 한국 영화 DB
 
 ## 데이터
 - [영화진흥위원회](http://www.kobis.or.kr/kobis/business/main/main.do)
@@ -8,7 +8,7 @@
 
 
 
-# South Korea MovieDB with R shiny dashboard
+# South Korea Movie DB with R shiny dashboard
 
 ## Data
 - [Korean Film Council](http://www.kobis.or.kr/kobis/business/main/main.do)
